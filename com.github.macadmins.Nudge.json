@@ -2,8 +2,8 @@
     "optionalFeatures": {
         "acceptableApplicationBundleIDs": [],
         "acceptableAssertionUsage": false,
-        "acceptableCameraUsage": false,
-        "acceptableScreenSharingUsage": false,
+        "acceptableCameraUsage": true,
+        "acceptableScreenSharingUsage": true,
         "aggressiveUserExperience": true,
         "aggressiveUserFullScreenExperience": true,
         "asynchronousSoftwareUpdate": true,
