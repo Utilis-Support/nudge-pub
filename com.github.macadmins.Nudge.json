@@ -8,8 +8,9 @@
         "aggressiveUserFullScreenExperience": true,
         "asynchronousSoftwareUpdate": true,
         "attemptToBlockApplicationLaunches": false,
-        "attemptToFetchMajorUpgrade": true,
+        "attemptToFetchMajorUpgrade": false,
         "blockedApplicationBundleIDs": [],
+        "disableSoftwareUpdateWorkflow": true,
         "enforceMinorUpdates": true,
         "terminateApplicationsOnLaunch": false
     },
@@ -34,13 +35,14 @@
                     "aboutUpdateURL": "https://support.apple.com/de-de/HT213268#macos136"
                 }
             ],
-            "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
+            "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
             "requiredInstallationDate": "2023-10-31T00:00:00Z",
             "requiredMinimumOSVersion": "14.1",
             "targetedOSVersionsRule": "default"
         }
     ],
     "userExperience": {
+        "actionButtonPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
         "allowGracePeriods": false,
         "allowLaterDeferralButton": true,
         "allowUserQuitDeferrals": true,
