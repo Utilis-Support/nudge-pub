@@ -79,20 +79,20 @@
         "updateElements": [
             {
                 "_language": "en",
-                "actionButtonText": "Update Device",
+                "actionButtonText": "Update macOS",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
-                "informationButtonText": "More Info",
+                "informationButtonText": "More information",
                 "mainContentHeader": "Your device will restart during this update",
-                "mainContentNote": "Important Notes",
-                "mainContentSubHeader": "Updates can take around 30 minutes to complete",
-                "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
-                "mainHeader": "Your device requires a security update",
+                "mainContentNote": "Important notes",
+                "mainContentSubHeader": "Updates can take 30 minutes or more to complete",
+                "mainContentText": "Keeping macOS up to date ensures that your device is fully protected.\n\nBefore beginning the update, please save all your work and close apps.\n\nTo begin the update, simply click on the Update macOS button and follow the steps.",
+                "mainHeader": "macOS requires a security update",
                 "oneDayDeferralButtonText": "One Day",
                 "oneHourDeferralButtonText": "One Hour",
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "I understand",
-                "subHeader": "A friendly reminder from your local IT team"
+                "subHeader": "Updates are managed by Utilis Support.\n\nIf you have any questions, please contact us at go@utilis.support."
             },
             {
                 "_language": "es",
@@ -133,6 +133,19 @@
                 "secondaryQuitButtonText": "Ich verstehe",
                 "subHeader": "Eine freundliche Erinnerung von Ihrem IT-Team"
             }
+            {
+                "_language": "nl",
+                "actionButtonText": "macOS bijwerken",
+                "informationButtonText": "Meer informatie",
+                "mainContentHeader": "Uw apparaat wordt opnieuw opgestart tijdens deze update",
+                "mainContentNote": "Belangrijke opmerkingen",
+                "mainContentSubHeader": "Updates kunnen 30 minuten of langer duren",
+                "mainContentText": "Door macOS up-to-date te houden, zorgt u ervoor dat uw apparaat volledig beschermd is.\n\nVoordat u met de update begint, moet u al uw werk opslaan en apps sluiten.\n\nOm de update te starten, klikt u gewoon op de knop macOS bijwerken en volgt u de stappen.",
+                "mainHeader": "macOS vereist een beveiligingsupdate",
+                "primaryQuitButtonText": "Later",
+                "secondaryQuitButtonText": "Ik begrijp het",
+                "subHeader": "Eine freundliche Erinnerung von Ihrem IT-Team"
+            },
         ]
     }
 }
