@@ -34,6 +34,10 @@
                     "_language": "de",
                     "aboutUpdateURL": "https://support.apple.com/de-de/HT213895"
                 }
+                {
+                    "_language": "nl",
+                    "aboutUpdateURL": "https://support.apple.com/nl-nl/HT213895"
+                },
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
             "requiredInstallationDate": "2023-11-15T00:00:00Z",
@@ -109,16 +113,16 @@
             },
             {
                 "_language": "fr",
-                "actionButtonText": "Mettre à jour l'appareil",
+                "actionButtonText": "Mettre à jour macOS",
                 "informationButtonText": "Plus d'informations",
                 "mainContentHeader": "Votre appareil redémarrera pendant cette mise à jour",
                 "mainContentNote": "Notes Importantes",
-                "mainContentSubHeader": "Les mises à jour peuvent prendre environ 30 minutes.",
-                "mainContentText": "Un appareil entièrement à jour est nécessaire pour garantir que le service informatique puisse protéger votre appareil efficacement.\n\n Si vous ne mettez pas à jour votre appareil, vous risquez de perdre l'accès à certains outils nécessaires à vos tâches quotidiennes.\n\nPour commencer la mise à jour, cliquez simplement sur le bouton Mettre à jour le périphérique et suivez les étapes fournies.",
-                "mainHeader": "Votre appareil nécessite une mise à jour de sécurité.",
+                "mainContentSubHeader": "Les mises à jour peuvent prendre 30 minutes ou plus",
+                "mainContentText": "En gardant macOS à jour, vous vous assurez que votre appareil est entièrement protégé.\n\nAvant de commencer la mise à jour, enregistrez tout votre travail et fermez les applications.\n\nPour commencer la mise à jour, il suffit de cliquer sur le bouton Mettre à jour macOS et de suivre les étapes.",
+                "mainHeader": "macOS nécessite une mise à jour de sécurité",
                 "primaryQuitButtonText": "Plus tard",
                 "secondaryQuitButtonText": "Je comprends",
-                "subHeader": "Un rappel amical de votre équipe informatique locale"
+                "subHeader": "Les mises à jour sont gérées par le support Utilis.\n\nSi vous avez des questions, veuillez nous contacter à l’adresse go@utilis.support."
             },
             {
                 "_language": "de",
