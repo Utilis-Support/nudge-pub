@@ -5,7 +5,7 @@
         "acceptableCameraUsage": true,
         "acceptableScreenSharingUsage": true,
         "aggressiveUserExperience": true,
-        "aggressiveUserFullScreenExperience": true,
+        "aggressiveUserFullScreenExperience": false,
         "asynchronousSoftwareUpdate": true,
         "attemptToBlockApplicationLaunches": false,
         "attemptToFetchMajorUpgrade": false,
@@ -33,7 +33,7 @@
                 {
                     "_language": "de",
                     "aboutUpdateURL": "https://support.apple.com/de-de/HT213895"
-                }
+                },
                 {
                     "_language": "nl",
                     "aboutUpdateURL": "https://support.apple.com/nl-nl/HT213895"
@@ -149,7 +149,7 @@
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "Ik begrijp het",
                 "subHeader": "Updates worden beheerd door Utilis Support.\n\nAls u vragen heeft, neem dan contact met ons op via go@utilis.support."
-            },
+            }
         ]
     }
 }
