@@ -41,7 +41,7 @@
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
             "requiredInstallationDate": "2023-12-13T00:00:00Z",
-            "requiredMinimumOSVersion": "14.1.2",
+            "requiredMinimumOSVersion": "14.2",
             "targetedOSVersionsRule": "default"
         }
     ],
