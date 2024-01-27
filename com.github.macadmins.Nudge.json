@@ -40,7 +40,7 @@
                 },
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
-            "requiredInstallationDate": "2024-01-31T00:00:00Z",
+            "requiredInstallationDate": "2024-02-02T00:00:00Z",
             "requiredMinimumOSVersion": "14.3",
             "targetedOSVersionsRule": "default"
         }
