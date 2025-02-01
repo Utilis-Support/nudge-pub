@@ -16,27 +16,27 @@
     },
     "osVersionRequirements": [
         {
-            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213895",
+            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/120283",
             "aboutUpdateURLs": [
                 {
                     "_language": "en",
-                    "aboutUpdateURL": "https://support.apple.com/en-us/HT213895"
+                    "aboutUpdateURL": "https://support.apple.com/en-us/120283"
                 },
                 {
                     "_language": "es",
-                    "aboutUpdateURL": "https://support.apple.com/es-es/HT213895"
+                    "aboutUpdateURL": "https://support.apple.com/es-es/120283"
                 },
                 {
                     "_language": "fr",
-                    "aboutUpdateURL": "https://support.apple.com/fr-fr/HT213895"
+                    "aboutUpdateURL": "https://support.apple.com/fr-fr/120283"
                 },
                 {
                     "_language": "de",
-                    "aboutUpdateURL": "https://support.apple.com/de-de/HT213895"
+                    "aboutUpdateURL": "https://support.apple.com/de-de/120283"
                 },
                 {
                     "_language": "nl",
-                    "aboutUpdateURL": "https://support.apple.com/nl-nl/HT213895"
+                    "aboutUpdateURL": "https://support.apple.com/nl-nl/120283"
                 },
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
