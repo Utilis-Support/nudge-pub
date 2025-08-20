@@ -40,8 +40,8 @@
                 },
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
-            "requiredInstallationDate": "2025-07-09T00:00:00Z",
-            "requiredMinimumOSVersion": "15.6",
+            "requiredInstallationDate": "2025-08-27T00:00:00Z",
+            "requiredMinimumOSVersion": "15.6.1",
             "targetedOSVersionsRule": "default"
         }
     ],
