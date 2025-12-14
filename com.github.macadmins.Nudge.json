@@ -16,32 +16,32 @@
     },
     "osVersionRequirements": [
         {
-            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/120283",
+            "aboutUpdateURL_disabled": "https://support.apple.com/en-us/122868",
             "aboutUpdateURLs": [
                 {
                     "_language": "en",
-                    "aboutUpdateURL": "https://support.apple.com/en-us/120283"
+                    "aboutUpdateURL": "https://support.apple.com/en-us/122868"
                 },
                 {
                     "_language": "es",
-                    "aboutUpdateURL": "https://support.apple.com/es-es/120283"
+                    "aboutUpdateURL": "https://support.apple.com/es-es/122868"
                 },
                 {
                     "_language": "fr",
-                    "aboutUpdateURL": "https://support.apple.com/fr-fr/120283"
+                    "aboutUpdateURL": "https://support.apple.com/fr-fr/122868"
                 },
                 {
                     "_language": "de",
-                    "aboutUpdateURL": "https://support.apple.com/de-de/120283"
+                    "aboutUpdateURL": "https://support.apple.com/de-de/122868"
                 },
                 {
                     "_language": "nl",
-                    "aboutUpdateURL": "https://support.apple.com/nl-nl/120283"
+                    "aboutUpdateURL": "https://support.apple.com/nl-nl/122868"
                 },
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
-            "requiredInstallationDate": "2025-08-27T00:00:00Z",
-            "requiredMinimumOSVersion": "15.6.1",
+            "requiredInstallationDate": "2025-12-28T00:00:00Z",
+            "requiredMinimumOSVersion": "26.2",
             "targetedOSVersionsRule": "default"
         }
     ],
