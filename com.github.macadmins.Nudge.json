@@ -23,16 +23,16 @@
                     "aboutUpdateURL": "https://support.apple.com/en-us/122868"
                 },
                 {
+                    "_language": "de",
+                    "aboutUpdateURL": "https://support.apple.com/de-de/122868"
+                },
+                {
                     "_language": "es",
                     "aboutUpdateURL": "https://support.apple.com/es-es/122868"
                 },
                 {
                     "_language": "fr",
                     "aboutUpdateURL": "https://support.apple.com/fr-fr/122868"
-                },
-                {
-                    "_language": "de",
-                    "aboutUpdateURL": "https://support.apple.com/de-de/122868"
                 },
                 {
                     "_language": "nl",
