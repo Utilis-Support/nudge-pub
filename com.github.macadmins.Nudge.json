@@ -37,7 +37,7 @@
                 {
                     "_language": "nl",
                     "aboutUpdateURL": "https://support.apple.com/nl-nl/122868"
-                },
+                }
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
             "requiredInstallationDate": "2026-03-13T00:00:00Z",
