@@ -41,7 +41,7 @@
             ],
             "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
             "requiredInstallationDate": "2026-03-13T00:00:00Z",
-            "requiredMinimumOSVersion": "26.3.1",
+            "requiredMinimumOSVersion": "26.4.1",
             "targetedOSVersionsRule": "default"
         }
     ],
